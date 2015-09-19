@@ -1,4 +1,4 @@
-update=Sun 13 Sep 2015 06:53:10 PM EDT
+update=Sat 19 Sep 2015 01:59:47 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,11 +23,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../Modulator
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,8 +56,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=astx-h11
-LibName31=ths4532
-LibName32=lt5506
-LibName33=adl5385
-LibName34=adf4351
+LibName30=/home/christopher/RoverRadio/Subcircuits/RadioComponents
+[general]
+version=1
