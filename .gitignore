@@ -1,5 +1,6 @@
 *cache.lib
 *-rescue.lib
 *-bak
+*.bak
 *.dsn
 Gerbers.zip
